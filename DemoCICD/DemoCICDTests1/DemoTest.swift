@@ -14,7 +14,7 @@ class DemoTest: XCTestCase {
     }
     
     func demoTest(){
-        XCTAssertEqual("test", "test")
+        XCTAssertEqual("test1", "test")
     }
 
 }
